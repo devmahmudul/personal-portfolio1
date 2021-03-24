@@ -1,0 +1,36 @@
+.middle-section{
+
+    background-color: #192a56;
+    height: 200px;
+    width: 600px;
+    align-content: center;
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+}
+.middle-sec{
+    float: left;
+    margin-top: 30px;
+    margin-left: 10px;
+  
+}
+.middle-sec h1{
+    color: white;
+}
+
+.middle-button{
+    float: right;
+}
+.middle-button .button {
+    background-color: rgb(255, 102, 0);
+    padding: 10px;
+    margin-top: 37%;
+    margin-right: 50px;
+    border-radius: 7px;
+    color: rgb(7, 12, 10);
+    text-transform: uppercase;
+}
+.middle-button .button:hover{
+    color:#000;
+    background: rgb(236, 227, 227);
+}
